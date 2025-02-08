@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Aristoteles Barros Dal Farra, atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas e recentemente concluí um curso de Desenvolvedor Full-Stack Júnior. Desde cedo, sempre fui fascinado pela tecnologia e pela forma como ela conecta pessoas e transforma o mundo e com isso me interresei pela linguagem de programação.Ao longo do meu aprendizado, mergulhei em linguagens de programação, que me permitiram compreender os fundamentos do desenvolvimento de software e criar projetos próprios. Meu foco principal está em expandir meus conhecimentos na área de desenvolvimento full-stack, unindo o design e a funcionalidade para criação de  Web Sites
+Me chamo Aristoteles Barros Dal Farra, atualmente estou fazendo graduação em Análise e Desenvolvimento de Sistemas e recentemente concluí um curso de Desenvolvedor Full-Stack Júnior. Desde cedo, sempre fui fascinado pela tecnologia e pela forma como ela conecta pessoas e transforma o mundo e com isso me interresei pela linguagem de programação. Ao longo do meu aprendizado, mergulhei em linguagens de programação, que me permitiram compreender os fundamentos do desenvolvimento de software e criar projetos próprios. Meu foco principal está em expandir meus conhecimentos na área de desenvolvimento full-stack, unindo o design e a funcionalidade para criação de  Web Sites
 <p align="left">
     
 ---
@@ -33,23 +33,26 @@ Me chamo Aristoteles Barros Dal Farra, atualmente estou fazendo graduação em A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
 />
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="Node.js" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
+
 
 
 
